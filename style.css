@@ -476,6 +476,11 @@ footer li {
     min-width: 20px;
   }
 
+  .mynavbar .offcanvas {
+  height: 100vh;
+  width: 45vh;
+}
+
   .timeline li .timeline-image {
     width: 90px;
     height: 90px;
