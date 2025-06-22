@@ -461,6 +461,10 @@ footer li {
     font-size: 60%;
   }
 
+  .hero h4 {
+    padding-bottom: 50px;
+  }
+  
   .hero h1 {
   font-size: 5.5rem;
 }
